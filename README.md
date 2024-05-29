@@ -3,7 +3,7 @@
 Adds one click torrent links to popular gaming sites.
 
 ## Installation
-To install this extension you must have tampermonkey browser extension.:
+To install this extension you must have tampermonkey browser extension.
 
 1. Click on the OneClickGameDL file (`OneClickGameDL.js`) and copy the entire script.
 2. Open Tampermonkey in your browser.
