@@ -2,6 +2,9 @@
 
 Adds one click torrent links to popular gaming sites.
 
+## Web Extension
+https://github.com/sClarkeDev/steamtor
+
 ## Installation
 To install this extension you must have tampermonkey browser extension.
 
